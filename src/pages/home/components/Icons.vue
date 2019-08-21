@@ -6,7 +6,7 @@
       <div class="icon-img">
       <img :src="item.imgUrl" alt=""/>
       </div>
-      <p>{{item.desc}}</p>  
+      <p>{{item.desc}}</p>
     </div>
     </swiper-slide>
           <!--Optional controls -->
@@ -21,7 +21,7 @@ export default {
   data () {
     return {
       swiperOption: {
-      pagination: '.swiper-pagination',
+        pagination: '.swiper-pagination'
       },
       iconList: [{
         id: 1001,
