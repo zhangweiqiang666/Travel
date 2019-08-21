@@ -17,7 +17,7 @@
       <div
         class="swiper-pagination"
         slot="pagination"
-      ></div>>
+      ></div>
     </swiper>
   </div>
 </template>
@@ -28,6 +28,7 @@ export default {
   data () {
     return {
       swiperOption: {
+        autoplay: 3000,
         pagination: '.swiper-pagination',
         loop: true
       },
