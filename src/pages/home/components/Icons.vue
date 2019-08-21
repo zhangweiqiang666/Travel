@@ -10,7 +10,7 @@
       <p>{{item.desc}}</p>  
     </div>
     </swiper-slide>
-          <!-- Optional controls -->
+          <!--Optional controls -->
       <div class="swiper-pagination" slot="pagination"></div>
     </swiper>
   </div>
