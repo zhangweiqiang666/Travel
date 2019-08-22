@@ -1,0 +1,318 @@
+{
+  "msg": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20198/06e65ace8dce3638e847b04e975489d1.jpg_750x200_a2dcb0a4.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/d7bbc21db442366a882e04ddc984669a.jpg_750x200_85e640d9.jpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/0b0622e5b6ac5fbed3084dd2832e6f8f.jpg_750x200_895321b6.jpg"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20198/95274cec39fa73e3cccf35e24ec01c3b.jpg_750x200_1b6ffcfa.jpg"
+      },
+      {
+        "id": "1005",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/2df3ba0f23801d7ed5607f4767a18482.jpg_750x200_b4d6aa93.jpg"
+      },
+      {
+        "id": "1006",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/a4c27b0a5fc1d9e9e620225869089b12.jpg_750x200_e4720428.jpg"
+      },
+      {
+        "id": "1007",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/87a224d0349d94a11e97f31aa1aba4f5.jpg_750x200_1f78af87.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png",
+        "desc": "故宫"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "北京必游"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "水上乐园"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "desc": "一日游"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/67/9a1678221b8e0e02.png",
+        "desc": "古北水镇"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "desc": "动植物园"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+        "desc": "奥林匹克塔"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/b4511345827006994aa1980a3886f0ac.png",
+        "desc": "北京世园会"
+      },
+      {
+        "id": "0010",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/bf88c62458044ca2ef9d733690eef3fc.png",
+        "desc": "优惠券"
+      }
+    ],
+    "youLikeList": [
+      {
+        "id": "0001",
+        "tagTitle": "随买随用",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1508/89/895a1b7add84f23faca053ce9e3153db.water.jpg_200x200_99ae30ee.jpg",
+        "address": "北京欢乐谷",
+        "place": "朝阳区",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "74654",
+        "price": "195"
+      },
+      {
+        "id": "0002",
+        "tagTitle": "随买随用",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1804/1a/1a48cc20b0d6ed44a3.img.jpg_200x200_32e22bed.jpg",
+        "address": "奥林匹克塔",
+        "place": "朝阳区",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "405",
+        "price": "121.9"
+      },
+      {
+        "id": "0003",
+        "tagTitle": "可定明日",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+        "address": "故宫",
+        "place": "东城区",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "453185",
+        "price": "60"
+      },
+      {
+        "id": "0004",
+        "tagTitle": "可定明日",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_200x200_2458ffb2.jpg",
+        "address": "八达岭长城",
+        "place": "延庆县",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "64765",
+        "price": "40"
+      },
+      {
+        "id": "0005",
+        "tagTitle": "可定明日",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1507/36/ce3d2d6c9ab44d67ae68d940b8781829.water.jpg_200x200_0938a8f2.jpg",
+        "address": "北京野生动物园",
+        "place": "大兴区",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "24484",
+        "price": "121"
+      },
+      {
+        "id": "0006",
+        "tagTitle": "可定明日",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/201308/08/41150dacc0e3a0c8c8d65eac.jpg_200x200_c62292e9.jpg",
+        "address": "北京动物园",
+        "place": "西城区 ",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "9134",
+        "price": "24.8"
+      },
+      {
+        "id": "0007",
+        "tagTitle": "可定明日",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_200x200_8eb33f07.jpg",
+        "address": "恭王府",
+        "place": "西城区",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "38223",
+        "price": "28.8"
+      },
+      {
+        "id": "0008",
+        "tagTitle": "可定明日",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_200x200_ce3d2658.jpg",
+        "address": "北京海洋馆",
+        "place": "西城区",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "6942",
+        "price": "168"
+      },
+      {
+        "id": "0009",
+        "tagTitle": "可定明日",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1604/78/78873494f26e554090.water.jpg_200x200_331422ad.jpg",
+        "address": "京东石林峡",
+        "place": "平谷区",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "2854",
+        "price": "58"
+      },
+      {
+        "id": "0010",
+        "tagTitle": "随买随用",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1503/dc/dc651cd2e01fb900.img.jpg_200x200_04f5b7b7.jpg",
+        "address": "南宫温泉水世界",
+        "place": "南宫旅游...",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "2190",
+        "price": "55"
+      },
+      {
+        "id": "0011",
+        "tagTitle": "随买随用",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1903/5d/5dcaf453dfd6f5dba3.img.jpg_200x200_51d03f19.jpg",
+        "address": "古北水镇",
+        "place": "密云县",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "11431",
+        "price": "140"
+      },
+      {
+        "id": "0012",
+        "tagTitle": "可定明日",
+        "tagUrl": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_200x200_fdc48968.jpg",
+        "address": "水立方",
+        "place": "奥林匹克...",
+        "star": "&#xe62a;&#xe62a;&#xe62a;&#xe62a;&#xe62a;",
+        "comment": "10958",
+        "price": "246"
+      }
+    ],
+    "sightList": [
+      {
+        "id": "0001",
+        "topImg": "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_250x250_0fc722c0.jpg",
+        "name": "故宫",
+        "price": 60
+      },
+      {
+        "id": "0002",
+        "topImg": "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_250x250_50c99cf3.jpg",
+        "name": "八达岭长城",
+        "price": 40
+      },
+      {
+        "id": "0003",
+        "topImg": "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_250x250_63e3520a.jpg",
+        "name": "圆明园",
+        "price": 46
+      },
+      {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_250x250_d852635b.jpg",
+        "name": "颐和园",
+        "price": 36.6
+      },
+      {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_250x250_6ec2f798.jpg",
+        "name": "恭王府",
+        "price": 28.8
+      },
+      {
+        "id": "0006",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1602/92/920e47352552c1c990.water.jpg_250x250_ee99c18e.jpg",
+        "name": "天坛公园",
+        "price": 40
+      },
+      {
+        "id": "0007",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_250x250_ecfa0df2.jpg",
+        "name": "水立方",
+        "price": 246
+      },
+      {
+        "id": "0008",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1902/84/84696f368bbec10da3.img.jpg_250x250_3588bc9a.jpg",
+        "name": "北京世界园艺博览会",
+        "price": 108
+      },
+      {
+        "id": "0009",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1508/89/895a1b7add84f23faca053ce9e3153db.water.jpg_250x250_6c4c9885.jpg",
+        "name": "北京欢乐谷",
+        "price": 195
+      },
+      {
+        "id": "00010",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/201308/08/41150dacc0e3a0c8c8d65eac.jpg_250x250_d76e727c.jpg",
+        "name": "北京动物园",
+        "price": 24.8
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/f3/86173f863bef61.jpg_r_640x214_52b003ac.jpg",
+        "title": "京城周末撒欢 ",
+        "desc": "在帝都过周末，不仅仅是城中游！"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/7e/476589267ebb41.jpg_r_640x214_bf599709.jpg",
+        "title": "京城溜娃必去 ",
+        "desc": "德智体美劳全面发展的亲子日，这些地方该去看看…"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
+        "title": "帝都必打卡 ",
+        "desc": "来北京必去的景点非这些地方莫属"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1606/85/c6b6bad1b977e.jpg_r_640x214_5c638941.jpg",
+        "title": "漂流勇进，烧烤露营",
+        "desc": "漂流勇进，烧烤露营"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/53/02091f1ee43d0a.jpg_r_640x214_2e3256b1.jpg",
+        "title": "北京清凉避暑胜地",
+        "desc": "到大自然中享受“天然空调”的清凉"
+      }
+    ]
+  }
+}
