@@ -25,15 +25,20 @@
         slot="pagination"
       ></div>
     </swiper>
+    <div class="footer">
+      <div><span class="iconfont">&#xe601;</span> {{address}}</div>
+      <div><span class="iconfont">&#xe65e;</span> 必游榜单</div>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
   name: 'HomeIcon',
-  props:['list'],
+  props: ['list'],
   data() {
     return {
+      address: '定位失败',
       swiperOption: {
         pagination: '.swiper-pagination'
       }
@@ -96,6 +101,22 @@ export default {
     position: absolute;
     bottom: 0.1rem;
     ellipsis();
+  }
+}
+
+.footer {
+  border-top: 0.03rem solid #eee;
+  line-height: 0.8rem;
+  height: 0.8rem;
+  display: flex;
+
+  div {
+    text-align: center;
+    flex: 1;
+  }
+
+  div:last-child {
+    border-left: 0.03rem solid #eee;
   }
 }
 </style>
