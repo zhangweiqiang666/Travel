@@ -27,10 +27,10 @@ export default {
     HomeYoulike,
     HomeWeekend
   },
-  mounted() {
+  mounted () {
     this.getHomeInfo()
   },
-  data() {
+  data () {
     return {
       swiperList: [],
       iconList: [],
@@ -40,17 +40,18 @@ export default {
     }
   },
   methods: {
-    getHomeInfo() {
+    getHomeInfo () {
       axios.get('/api/index.json').then(this.getHomeInfoSucc)
     },
-    getHomeInfoSucc(res) {
+    getHomeInfoSucc (res) {
       res = res.data.data
       this.swiperList = res.swiperList
       this.iconList = res.iconList
       this.sightList = res.sightList
       this.weekendList = res.weekendList
       this.youLikeList = res.youLikeList
-      console.log(res)
+      console.log(res);
+      
     }
   }
 }

@@ -36,7 +36,7 @@
 export default {
   name: 'HomeIcon',
   props: ['list'],
-  data() {
+  data () {
     return {
       address: '定位失败',
       swiperOption: {
@@ -45,7 +45,7 @@ export default {
     }
   },
   computed: {
-    pages() {
+    pages () {
       const pages = []
       this.list.forEach((item, index) => {
         // 计算页数
